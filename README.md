@@ -130,12 +130,10 @@ Copy code
 # Chạy Client
 java -cp LTM/src/nguoi_choi/UngDungClient.java
 Sau khi chạy, bạn sẽ thấy giao diện đăng nhập. Đăng nhập và chọn các chức năng như tạo phòng chơi hoặc tham gia phòng ngẫu nhiên.
----
 
 
 
-## 📬 5. Liên hệ
-
+📬 5. Liên hệ
 👤 Họ và tên: Nguyễn Việt Ninh
 🎓 Khoa: Công nghệ thông tin – Trường Đại học Đại Nam
 🌐 Website: Khoa CNTT – DNU
