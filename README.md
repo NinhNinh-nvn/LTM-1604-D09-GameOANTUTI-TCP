@@ -114,34 +114,32 @@ git clone https://github.com/nvninh2804nvn-boop/LTM-1604-D09-Game-TCP.git
 
 # Di chuyển vào thư mục dự án
 cd LTM-1604-D09-Game-TCP
-
-
 3. Chạy chương trình:
 Chạy Server:
-
 Chạy server để quản lý các kết nối và phòng chơi. Mở terminal hoặc IDE và nhập:
 
+bash
+Copy code
 # Chạy Server
 java -cp LTM/src/may_chu/AppServer.java
-
 Chạy Client:
-
 Mở hai cửa sổ terminal hoặc IDE để kiểm tra khả năng kết nối và chơi game. Mỗi cửa sổ sẽ chạy một client.
 
+bash
+Copy code
 # Chạy Client
 java -cp LTM/src/nguoi_choi/UngDungClient.java
-
-
 Sau khi chạy, bạn sẽ thấy giao diện đăng nhập. Đăng nhập và chọn các chức năng như tạo phòng chơi hoặc tham gia phòng ngẫu nhiên.
+---
+
+
 
 ## 📬 5. Liên hệ
 
-👤 **Họ và tên:** Nguyễn Việt Ninh  
-🎓 **Khoa:** Công nghệ thông tin – Trường Đại học Đại Nam  
-🌐 **Website:** [Khoa CNTT – DNU](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)  
-📧 **Email:** [nvninh2804@gmail.com](mailto:nvninh2804@gmail.com)  
-📱 **Fanpage:** [AIoTLab – FIT DNU](https://www.facebook.com/DNUAIoTLab)
+👤 Họ và tên: Nguyễn Việt Ninh
+🎓 Khoa: Công nghệ thông tin – Trường Đại học Đại Nam
+🌐 Website: Khoa CNTT – DNU
+📧 Email: nvninh2804@gmail.com
+📱 Fanpage: AIoTLab – FIT DNU
 
-<p align="center">
-  © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved
-</p>
+<p align="center"> © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved </p> ```
