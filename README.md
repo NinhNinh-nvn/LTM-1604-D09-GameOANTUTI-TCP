@@ -134,14 +134,14 @@ java -cp LTM/src/nguoi_choi/UngDungClient.java
 
 Sau khi chạy, bạn sẽ thấy giao diện đăng nhập. Đăng nhập và chọn các chức năng như tạo phòng chơi hoặc tham gia phòng ngẫu nhiên.
 
-📬 5. Liên hệ
+## 📬 5. Liên hệ
 
-👤 Họ và tên: Nguyễn Việt Ninh
-🎓 Khoa: Công nghệ thông tin – Trường Đại học Đại Nam
-🌐 Website: Khoa CNTT – DNU
+👤 **Họ và tên:** Nguyễn Việt Ninh  
+🎓 **Khoa:** Công nghệ thông tin – Trường Đại học Đại Nam  
+🌐 **Website:** [Khoa CNTT – DNU](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)  
+📧 **Email:** [nvninh2804@gmail.com](mailto:nvninh2804@gmail.com)  
+📱 **Fanpage:** [AIoTLab – FIT DNU](https://www.facebook.com/DNUAIoTLab)
 
-📧 Email: nvninh2804@gmail.com
-
-📱 Fanpage: AIoTLab – FIT DNU
-
-<p align="center"> © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved </p> ```
+<p align="center">
+  © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved
+</p>
