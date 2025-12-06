@@ -114,6 +114,8 @@ git clone https://github.com/nvninh2804nvn-boop/LTM-1604-D09-Game-TCP.git
 
 # Di chuyển vào thư mục dự án
 cd LTM-1604-D09-Game-TCP
+
+
 3. Chạy chương trình:
 Chạy Server:
 
